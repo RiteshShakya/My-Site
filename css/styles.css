@@ -1,0 +1,158 @@
+.topContainer {
+    background-color: #e3fdfd;
+}
+.middleContainer {
+  margin-top: -100px;
+  outline: none;
+}
+.bottomContainer {
+    background-color: #a6e3e9;
+    padding: 30px 0 10px;
+}
+.programmer {
+    font-weight: normal;
+    color: #66bfbf;  
+}
+.mountain {
+    height: 600px;
+    width: auto;
+}
+.profile-photo {
+    margin-top: 50px;
+}
+.java {
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+.web-d {
+    height: 250px;
+    width: 250px;
+    float: right;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 230px;
+    left: 200px;
+}
+.top-cloud {
+    position: relative;
+    margin: 20px 0px 0px 500px;
+}
+.skill-row {
+    margin: 100px auto 100px auto; 
+    width: 50%;
+    padding-top: 10px;
+     
+}
+.skill-row2 {
+    margin: 100px auto 100px auto; 
+    width: 50%;
+    margin-top: 150px;
+    padding-top: 15px;
+}
+.my-skills {
+    margin-top: 100px;
+}
+.profile{
+    margin: 100px auto 100px auto;
+}
+.intro {
+    width: 50%;
+    margin: auto;
+}
+
+
+ .contact-me {
+     margin: 10px;
+     margin-bottom: 35px;
+ }
+
+ .newBtn {
+    background-color: white;
+    color: #11999e;
+    padding: 2px 40px;
+    margin: 10px;
+    border-radius: 90px;
+    border: 1px solid #11999e;
+    transition: 0.2s ease-in;
+ }
+ .newBtn:hover {
+     background-color: #11999e;
+     color: white;
+ }
+
+.linkedin {
+    height: 30px;
+    width: 30px;
+}
+ .linkedin:hover {
+    background: #eaf6f6;
+    background-size: 25px;
+    transition: 0.4s ease-in;
+}
+.footer-link:hover {
+    color: #eaf6f6;
+    transition: 0.4s ease-in;
+}
+.copyright {
+    font-size: 24px;
+    color: #615d5d;
+}
+
+span {
+    font-size: 25px;
+    position: relative;
+    bottom: 5px;
+}
+a{
+    text-decoration: none;
+}
+/* a:hover {
+    color: #615d5d;
+    color: #eaf6f6;
+    transition: 0.4s ease-in;
+} */
+
+body {
+    margin: 0px;
+    text-align: center;
+    /* font-family: 'Merriweather', serif; */
+    font-size: 30px;
+    color: #40514e;
+}
+h1 {
+    margin: 0 auto -10px auto;
+    font-size:  5.626rem;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #317777;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+a {
+    color: #11999e;
+}
+
+hr {
+    border-style: none;
+    border-top: 8px dotted rgba(63, 35, 94, 0.425);
+    height: 2px;
+    width: 8%;
+    padding: 20px auto 20px auto;
+}
+p {
+    font-size: .75em;
+    line-height: 2;
+}
